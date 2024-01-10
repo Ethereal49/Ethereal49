@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ethereal49
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning C/Python/Java/Html/CSS/Javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? No way.
+- 👀 I’m interested in ML, especially CV.
+- 🌱 I’m currently learning C/Python
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me? Currently, email me at ethereal49@proton.me. 
 
 <!---
 Ethereal49/Ethereal49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
