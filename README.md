@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethereal49
-- 👀 I’m interested in ML, especially CV.
-- 🌱 I’m currently learning C/Python
+- 👀 I’m interested in NLP these days.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Currently, email me at ethereal49@proton.me. 
 
