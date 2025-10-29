@@ -2,7 +2,7 @@
 - 👀 I’m interested in LLM & Deep Learning these days.
 - 🌱 I’m currently learning LangChain. 
 - 💞️ I’m looking to collaborate on LLM related work.
-- 📫 How to reach me? Currently, email me at ethereal49@proton.me. 
+- 📫 How to reach me? Currently, email me at hongyeluo49@gmail.com
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethereal49&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethereal49&show_icons=true&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
