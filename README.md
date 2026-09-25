@@ -4,7 +4,16 @@
 - 💞️ I’m looking to do nothing.
 - 📫 How to reach me? Currently, email me at hongyeluo49@gmail.com
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ethereal49)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=dark"
+  />
+  <img
+    alt="GitHub stats"
+    src="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=default"
+  />
+</picture>
 
 <!---
 Ethereal49/Ethereal49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
