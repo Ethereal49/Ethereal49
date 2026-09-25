@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ethereal49
-- 👀 I’m interested in LLM & Deep Learning these days.
-- 🌱 I’m currently learning Deep Learning Algorithms. 
-- 💞️ I’m looking to collaborate on LLM-related work.
+- 👀 I’m interested in nothing these days.
+- 🌱 I’m currently learning nothing. 
+- 💞️ I’m looking to do nothing.
 - 📫 How to reach me? Currently, email me at hongyeluo49@gmail.com
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethereal49&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
