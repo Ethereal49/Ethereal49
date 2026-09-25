@@ -7,11 +7,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=radical"
+    srcset="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=dark_github"
   />
   <img
     alt="GitHub stats"
-    src="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=default"
+    src="https://github-stats-extended.vercel.app/api?username=Ethereal49&theme=light_github"
   />
 </picture>
 
