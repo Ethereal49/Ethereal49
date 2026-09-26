@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ethereal49
+- 🖥️ [Explore AustinOS — my projects, research & background](https://ethereal49.github.io/)
 - 👀 I’m interested in nothing these days.
 - 🌱 I’m currently learning nothing. 
 - 💞️ I’m looking to do nothing.
