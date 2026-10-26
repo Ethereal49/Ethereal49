@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ethereal49
 - 🖥️ [Explore Austin’s Desk — my projects, research & background](https://ethereal49.github.io/)
-- 👀 I’m interested in nothing these days.
-- 🌱 I’m currently learning nothing. 
-- 💞️ I’m looking to do nothing.
+- 🌱 I’m currently diving into open-source projects and my own startup.
 - 📫 How to reach me? Currently, email me at hongyeluo49@gmail.com
 
 <picture>
